@@ -1,2 +1,2 @@
-# uml-db-org-financeiro
-uml do Sistema Organizador de Finanças e Metas Pessoais (SOFMP)
+# uml-db-org-multitarefas
+uml do Sistema Organizador Multitarefas (SOM)
